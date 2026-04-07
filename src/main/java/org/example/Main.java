@@ -3,8 +3,6 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Розробник: Дроздовський Є.І.");
-        System.out.println("------------------------------------");
 
         int rows = 2;
         int cols = 3;
